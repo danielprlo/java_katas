@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: ThingTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.035 s <<< FAILURE! - in ThingTest
+fail  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: "Food"
+ but was: "Dog"
+	at ThingTest.fail(ThingTest.java:13)
+
